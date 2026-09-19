@@ -23,8 +23,8 @@ configuration_options =
 {
     {
         name = "RALSEI_M_NIGHTVISION",
-        label = "Ralsei: Night Vision + Darkness Immunity",
-        hover = "Enables night vision and immunity to darkness for Ralsei.",
+        label = "Ральзей: Иммунитет к темноте",
+        hover = "Включает ночное зрение и иммунитет к темноте у Ральзея.",
         options =
         {
             { description = "Enabled", data = true },
@@ -34,8 +34,8 @@ configuration_options =
     },
     {
         name = "RUSSIAN_LOCALIZATION",
-        label = "The Fun Gang: Russian Localization",
-        hover = "Enables Russian translation and localized visual assets for The Fun Gang.",
+        label = "The Fun Gang: Русская локализация",
+        hover = "Включает русскую локализацию The Fun Gang.",
         options =
         {
             { description = "Enabled", data = true },
@@ -46,7 +46,7 @@ configuration_options =
     {
         name = "SCP035_RUSSIAN_LOCALIZATION",
         label = "SCP-035: Русская локализация",
-        hover = "Включает русскую локализацию контента SCP-035.",
+        hover = "Включает русскую локализацию SCP-035.",
         options =
         {
             { description = "Включено", data = true },
@@ -57,7 +57,7 @@ configuration_options =
     {
         name = "SCP049_RUSSIAN_LOCALIZATION",
         label = "SCP-049: Русская локализация",
-        hover = "Включает русскую локализацию контента SCP-049.",
+        hover = "Включает русскую локализацию SCP-049.",
         options =
         {
             { description = "Включено", data = true },
