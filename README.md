@@ -61,12 +61,13 @@
 *- [ The Fun Gang (DELTARUNE) ] Шкала TP/ПН сдвинута ниже из-за наложения статус-баров.*<br/>
 *- [ SCP-049 ] Для Cure Meter убирается двойная плашка и отображается максимальное значение при наведении.*<br/>
 
-**[(API) MODDED SKINS](https://steamcommunity.com/sharedfiles/filedetails/?id=2812783478)**
+**[\[API\] MODDED SKINS](https://steamcommunity.com/sharedfiles/filedetails/?id=2812783478)**
 ----------------------------------------
 СОВМЕСТИМОСТЬ:<br/>
 *- [ The Fun Gang (DELTARUNE)/SCP-049 ] Убраны неправильные official-rarity значения для модовых скинов.*<br/>
 *- [ SCP-049 ] Исправлена совместимость старого bundled skins_api с \[API\] Modded Skins 2.6: ms_ prefab IDs, ModMade rarity, старые wrapper-функции и skin tables.*<br/>
 
+----------------------------------------
 > **КОНФИГУРАЦИЯ МОДА**<br/>
 > *По умолчанию всё - \[ВКЛ\]*<br/><br/>
 > Ральзей: Иммунитет к темноте \[ВКЛ/ВЫКЛ\]<br/>
