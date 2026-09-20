@@ -1,7 +1,7 @@
-name = "DustAve's Override - Organized"
-description = "Fixes, compatibility patches and optional Russian localization for The Fun Gang, SCP-035, SCP-049 and A.T.P. Soldat."
+name = "DST Override"
+description = "Это мод, перезаписывающий моды в моей сборке. Он исправляет различные баги/логику, добавляет русскую локализацию и иногда фичи в используемых модах."
 author = "DustAve"
-version = "1.2.0-organized"
+version = "1.0"
 
 api_version = 10
 priority = -1001
